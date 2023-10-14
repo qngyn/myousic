@@ -1,8 +1,8 @@
-# [your app name here]
+# mYOUsic
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Quynh Nguyen & Varun Yadav
 
 🔗 Link to deployed app:
 
