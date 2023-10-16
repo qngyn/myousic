@@ -10,17 +10,16 @@ Designed and developed by: Quynh Nguyen & Varun Yadav
 
 ### Description and Purpose
 
-[text goes here]
+mYOUsic is a forum where people can join and listen to music together. There are various ways that you can create a playlist of your favorite music to listen with your friends, or even strangers. You can create a temporary playlist with us to play at your hangout or party, or you can create a group so your friends or meet new people who have the same taste of music just like yours! We hope you have a nice time when you are on our forum :heart:  
 
 ### Inspiration
-
-[text goes here]
+Both of us want to build a unique personal project that we can use on a daily basics but also highlight our skills. Moreover, I would love to learn more about Spotify API and openAI (for stretch features of recommending songs based on the current playlist).
 
 ## Tech Stack
 
-Frontend:
+Frontend: React, TypeScript
 
-Backend:
+Backend: PostgreSQL, Railway, JavaScript
 
 ## Features
 
