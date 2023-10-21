@@ -34,7 +34,8 @@ Backend: PostgreSQL, Railway, JavaScript
 
 - Each group will have **ONLY ONE** playlist, which people can add to the current queue.
 - (For permanent group only) They also have options to vote down/up a song. A song that gets voted down by more than 50% of group participants, will not be played for the next 24 hours.
-- When they add a song to the playlist, they can also get some recommendations that based on the current playlist. 
+- When they add a song to the playlist, they can also get some recommendations that based on the current playlist.
+- The group can vote on whether they like the music playing to generate a rating that will be visible
 
 [gif goes here]
 
