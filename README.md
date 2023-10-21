@@ -32,7 +32,7 @@ Backend: PostgreSQL, Railway, JavaScript
 
 ### Listen to music
 
-- Each group will have ONLY ONE playlist, which people can add to the current queue.
+- Each group will have **ONLY ONE** playlist, which people can add to the current queue.
 - (For permanent group only) They also have options to vote down/up a song. A song that gets voted down by more than 50% of group participants, will not be played for the next 24 hours.
 - When they add a song to the playlist, they can also get some recommendations that based on the current playlist. 
 
@@ -48,6 +48,8 @@ Backend: PostgreSQL, Railway, JavaScript
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 - Battle: two people play a song each, and we will vote to see the group participants like which one more.
 - Points collecting: for each song got loved more or win the battle game, earn more points -> unlock exclusive avatar
+- Admin of a group can remove a song in a queue
+- Set the maximum of admins for each group
 
 ## Installation Instructions
 
