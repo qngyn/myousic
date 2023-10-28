@@ -35,12 +35,14 @@ groups
 | last_active | date | date the group was last used|
 | admin | varchar | user who runs the group|
 
-<img width="587" alt="image" src="https://github.com/qngyn/myousic/assets/98564135/b760ee8e-072b-4f91-9e95-d1e785338575">
-
-
 playlists
 | Column Name | Type | Description |
 |-------------|------|-------------|
 | id | integer | primary key |
 | group_id | integer | foreign key |
 | queue | list | songs to play|
+
+<img width="587" alt="image" src="https://github.com/qngyn/myousic/assets/98564135/b760ee8e-072b-4f91-9e95-d1e785338575">
+
+
+
