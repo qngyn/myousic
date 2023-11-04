@@ -18,7 +18,7 @@ function App() {
 
   useEffect(() => {
     document.documentElement.style.setProperty(
-      '--background-color', light ? '#90E4C1' : '#0144E'
+      '--background-color', light ? '#90E4C1' : '#014D4E'
     );
 
   })
